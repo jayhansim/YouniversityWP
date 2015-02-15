@@ -32,11 +32,11 @@
                   <div class="nav-dropdown-menu">
                     <span class="nav-dropdown-header">Pre-University</span>
                     <ul>
-                      <li><a href="#">Canadian Pre-U (CPU)</a></li>
-                      <li><a href="#">Cambridge A Levels (CAL)</a></li>
-                      <li><a href="#">Australian Pre-U (SAM / AUSMAT)</a></li>
-                      <li><a href="#">International Baccalaureate (IB)</a></li>
-                      <li><a href="#">Foundation Studies</a></li>
+                      <li><a href="http://youniversity.my/a-levels">Cambridge A-Level (CAL)</a></li>
+                      <li><a href="http://youniversity.my/canadian-pre-u">Canadian Pre-University (CPU)</a></li>
+                      <li><a href="http://youniversity.my/australian-matriculation">Australian Pre-University (SAM/AUSMAT)</a></li>
+                      <li><a href="http://youniversity.my/international-baccalaureate">International Baccalaureate (IB)</a></li>
+                      <li><a href="http://youniversity.my/?r=site/allfoundation">Foundation Studies</a></li>
                     </ul>
                   </div>
                   <div class="nav-dropdown-menu">
@@ -50,11 +50,11 @@
                   <div class="nav-dropdown-menu">
                     <span class="nav-dropdown-header">Online Courses</span>
                     <ul>
-                      <li><a href="#">EDX: HarvardX, MITx, BerkeleyX</a></li>
-                      <li><a href="#">COURSERA: Yale, Princeton, NUS</a></li>
-                      <li><a href="#">CODECADEMY: Learn How To Code!</a></li>
-                      <li><a href="#">UDEMY: Learn Anything Online!</a></li>
-                      <li><a href="#">UDACITY: Powered by Google &amp; Facebook!</a></li>
+                      <li><a href="https://www.edx.org/">EDX: HarvardX, MITx, BerkeleyX</a></li>
+                      <li><a href="https://www.coursera.org/">COURSERA: Yale, Princeton, NUS</a></li>
+                      <li><a href="https://www.codecademy.com/">CODECADEMY: Learn How To Code!</a></li>
+                      <li><a href="https://www.udemy.com/">UDEMY: Learn Anything Online!</a></li>
+                      <li><a href="https://www.udacity.com/">UDACITY: Powered by Google &amp; Facebook!</a></li>
                     </ul>
                   </div>
                   <div class="nav-dropdown-menu">
@@ -68,23 +68,25 @@
                   <div class="nav-dropdown-menu">
                     <span class="nav-dropdown-header">Cheat Sheets</span>
                     <ul>
-                      <li><a href="#">All Cheat Sheets</a></li>
+                      <li><a href="http://youniversity.my/cheatsheets">All Cheat Sheets</a></li>
                     </ul>
                   </div>
                 </li>
               </ul>
-
             </div>
           </div>
           <div class="nav-cheatsheet">
-            <a href="#">Cheet Sheets</a>
+            <a href="http://youniversity.my/cheatsheets" target="_blank">Cheat Sheets</a>
+          </div>
+          <div class="nav-cheatsheet">
+            <a href="http://youniversity.my/?r=site/enquiries" target="_blank">Contact Us</a>
           </div>
           <div class="nav-popular">
             <span class="nav-popular-title">Popular:</span>
             <ul class="nav-popular-menu">
-              <li><a href="#">Cambridge A Levels (CAL)</a></li>
-              <li><a href="#">Canadian Pre-U (CPU)</a></li>
-              <li><a href="#">Australian Pre-U (SAM/AUSMAT)</a></li>
+              <li><a href="http://youniversity.my/a-levels">Cambridge A-Level (CAL)</a></li>
+              <li><a href="http://youniversity.my/canadian-pre-u">Canadian Pre-U (CPU)</a></li>
+              <li><a href="http://youniversity.my/australian-matriculation">Australian Pre-U (SAM/AUSMAT)</a></li>
             </ul>
           </div>
 

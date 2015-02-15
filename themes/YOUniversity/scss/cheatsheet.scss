@@ -286,7 +286,10 @@ a {
 .article {
   padding: 0 15px;
   margin-bottom: 30px;
-  //background: yellow;
+
+  &-content {
+    text-align: justify;
+  }
 }
 
 
@@ -422,7 +425,6 @@ a {
 
   .article-content {
     @include font-size(1.7);
-    color: $color-lighter;
 
     h2, h3, h4, h5, h6 {
       color: $color;
@@ -476,6 +478,7 @@ a {
     &-text {
       @include font-size(1.4);
       margin-top: 10px;
+      color: $color-lighter;
 
       &:last-child {
         margin-bottom: 0;

@@ -188,6 +188,8 @@ a:hover {
 .article {
   padding: 0 15px;
   margin-bottom: 30px; }
+  .article-content {
+    text-align: justify; }
 
 .articles-list > article {
   padding: 0 15px;
@@ -260,8 +262,7 @@ a:hover {
     width: auto; }
   .article-single .article-content {
     font-size: 17px;
-    font-size: 1.7rem;
-    color: #6a717f; }
+    font-size: 1.7rem; }
     .article-single .article-content h2, .article-single .article-content h3, .article-single .article-content h4, .article-single .article-content h5, .article-single .article-content h6 {
       color: #2e3137; }
     .article-single .article-content p, .article-single .article-content ul, .article-single .article-content ol, .article-single .article-content table, .article-single .article-content dl {
@@ -294,7 +295,8 @@ a:hover {
   .article-content .wp-caption-text {
     font-size: 14px;
     font-size: 1.4rem;
-    margin-top: 10px; }
+    margin-top: 10px;
+    color: #6a717f; }
     .article-content .wp-caption-text:last-child {
       margin-bottom: 0; }
 
